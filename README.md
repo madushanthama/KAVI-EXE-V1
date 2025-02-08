@@ -39,7 +39,7 @@
 
 ## ```HEROKU DEPLOYMENT```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Baymaxff/KAVI-EXE)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/kavi12345786/KAVI-EXE-V1)
 ---------
 
 ## ```HEROKU TUTORIAL```
