@@ -29,11 +29,11 @@
 
 
 ## ` Pair with WhatsApp V1 💀☑️`
-<h2 align="left">  <a href="https://pairvv2-96d3bfdf14cd.herokuapp.com/"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
+<h2 align="left">  <a href="https://kavipairv2-9cb39109bf76.herokuapp.com/"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
 </a>
 
 ## ` Pair with WhatsApp V2 💀☑️`
-<h2 align="left">  <a href="https://pairvv2-96d3bfdf14cd.herokuapp.com/"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
+<h2 align="left">  <a href="https://kavipairv2-9cb39109bf76.herokuapp.com/"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
 </a>
 
 
